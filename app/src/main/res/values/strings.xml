@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recetas De Cocina</string>
+    <string name="tipo1">Res</string>
+    <string name="tipo2">Pollo</string>
+    <string name="tipo3">Pescado</string>
+    <string name="tipo4">Cerdo</string>
+    <string name="tipo5">Ensalada</string>
+    <string name="tipo6">Postre</string>
+    <string name="tipo7">Jugos</string>
+    <string name="tipo8">Otros</string>
+    <string name="informacion">Información</string>
+    <string name="inicio_texto">Seleccione un tipo de comida</string>
+    <string name="fuente">Fuente: wwww.food2fork.com</string>
+    <string name="dev">Desarrollado por: Marcelo Torrez Azuga</string>
+    <string name="contacto">Contacto: elmac395@gmail.com</string>
+    <string name="ciudad">La Paz - Bolivia</string>
+</resources>
